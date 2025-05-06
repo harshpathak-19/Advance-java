@@ -58,11 +58,11 @@ How to use the application.
 - The "Delete Book" option allows users to remove a book record.
 ```
 ### 6. ⭐️ Star this Repository
-If you find this project useful, consider giving it a star on [Github](https://github.com/vinitk09/Advance-Java)! Thank you for your support!
+If you find this project useful, consider giving it a star on [Github](https://github.com/harshpathak-19/Advance-java.git)! Thank you for your support!
 <div align="center">
-  <a href="https://github.com/vinitk09/Advance-Java/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/vinitk09/Advance-Java"></a>
+  <a href="https://github.com/vinitk09/Advance-Java/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/harshpathak-19/Advance-Java"></a>
 
-  <a href="https://www.linkedin.com/in/vinit-kumar-0a9846262/">
+  <a href="https://www.linkedin.com/in/harshraj-3aa622258/">
     <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-Profile-blue">
   </a><!--   <a href="https://github.com/yourusername/yourrepository/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue"></a> -->
 </div>
